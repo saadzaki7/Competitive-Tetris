@@ -33,7 +33,7 @@ Below is a demonstration of the rotation feature:
 ## Score:
 After filling up row(s) they are cleared and points are added into the player's score through the following equation:
 
-### Points_added = (Current_level + Rows_cleared) ^ 2
+Points_added = (Current_level + Rows_cleared) ^ 2
 
 ![UML not rendering](Game_screenshots/Scoreboard_Graphic.png?raw=true "Title")
 
