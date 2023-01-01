@@ -1,5 +1,5 @@
 # Competitive-Tetris
-A two player Tetris game that follows Object Oriented Programming fundamentals. Lead a team of 3 members to create Biquardris/Competitive Tetris as our final project for CS246.
+A two player Tetris game that follows Object Oriented Programming fundamentals. Lead a team of 3 members to create Biquardris/Competitive Tetris as our final project for Object-Oriented Software Development (CS246) course.
 
 Due to academic integrity concerns the source code for this project is not made publically available, however below I have attached several screenshots of the game in action and would be happy to provide it upon request.
 
@@ -7,6 +7,5 @@ Incorporated observer, factory and Model View Controller design patterns. It als
 
 Unified Modeling Language (UML) Diagram:
 
-
-Prior to coding we used this as a guideline to plan out our program.
+Prior to coding we created a UML to serve as a guideline to plan out our program.
 
