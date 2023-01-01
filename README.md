@@ -12,8 +12,8 @@ We created a UML to serve as a guideline for planning out our program.
 ![UML not rendering](UML.png?raw=true "Title")
 
 ## Graphical and Text mode screenshots:
-![UML not rendering](Competitive-Tetris/Game Screenshots/Scoreboard Graphic.png?raw=true "Title")
-![UML not rendering](Competitive-Tetris/Game Screenshots/Scoreboard Text.png?raw=true "Title")
+![UML not rendering](Competitive-Tetris/Game_screenshots/Scoreboard Graphic.png?raw=true "Title")
+![UML not rendering](Competitive-Tetris/Game_screenshots/Scoreboard Text.png?raw=true "Title")
 
 
 ## Movement features:
