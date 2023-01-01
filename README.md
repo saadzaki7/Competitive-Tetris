@@ -21,10 +21,8 @@ All seven block types can be moved in all directions except up, rotated counter 
 
 Below is a demonstration of the rotation feature:
 ![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Level_Text.png?raw=true "Title")
 
 ![UML not rendering](Game_screenshots/Movement_Graphic.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Movement_Text.png?raw=true "Title")
 
 ## Leveling up feature:
 Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
