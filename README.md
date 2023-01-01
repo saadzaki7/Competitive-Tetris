@@ -6,7 +6,7 @@ Due to academic integrity concerns the source code for this project is not made 
 Incorporated observer, factory and Model View Controller design patterns. It also used techniques such as Polymorphism, RAII and single responsibility principle.
 
 Unified Modeling Language (UML) Diagram:
-
+![Alt text](Picture1.png?raw=true "Title")
 ![uml diagram not rendering](https://github.com/[saadzaki7]/[Competitive-Tetris]/blob/[main]/Picture1.png)
 
 Prior to coding we created a UML to serve as a guideline to plan out our program.
