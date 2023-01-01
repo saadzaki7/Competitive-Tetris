@@ -1,4 +1,4 @@
-# Competitive-Tetris
+# Competitive Tetris
 A two player turn based Tetris game that follows Object Oriented Programming fundamentals. Lead a team of 3 members to create Competitive Tetris as our final project for Object-Oriented Software Development (CS 246) course.
 
 Due to academic integrity concerns the source code for this project is not made publically available, however below I have attached several screenshots of the game and would be happy to provide it upon request.
@@ -12,21 +12,36 @@ We created a UML to serve as a guideline for planning out our program.
 ![UML not rendering](UML.png?raw=true "Title")
 
 ## Graphical and Text mode screenshots:
-![UML not rendering](Game_screenshots/Graphical.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Scoreboard Text.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Scoreboard_Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Scoreboard_Text.png?raw=true "Title")
 
 
 ## Movement features:
 All seven block types can be moved in all directions except up, rotated counter clockwise and clockwise all with correct collision detection.
 
 Below is a demonstration of the rotation feature:
+![UML not rendering](Game_screenshots/Movement_Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Movement_Text.png?raw=true "Title")
 
 ## Leveling up feature:
 Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
 
+![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Level_Text.png?raw=true "Title")
+
 ## Score:
 After filling up row(s) they are cleared and points are added into the player's score through the following equation:
+
 ### Points_added = (Current_level + Rows_cleared) ^ 2
+
+![UML not rendering](Game_screenshots/Scoreboard_Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Scoreboard_Text.png?raw=true "Title")
+
+
+![UML not rendering](Game_screenshots/Scoreboard_Graphic_2.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Scoreboard_Text_2.png?raw=true "Title")
+
+
 In this case it was:
 Points_added = (3+1)^2 = 16
 
