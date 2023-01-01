@@ -36,11 +36,9 @@ After filling up row(s) they are cleared and points are added into the player's 
 ### Points_added = (Current_level + Rows_cleared) ^ 2
 
 ![UML not rendering](Game_screenshots/Scoreboard_Graphic.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Scoreboard_Text.png?raw=true "Title")
 
 
 ![UML not rendering](Game_screenshots/Scoreboard_Graphic_2.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Scoreboard_Text_2.png?raw=true "Title")
 
 
 In this case it was:
