@@ -1,5 +1,5 @@
 # Competitive Tetris
-A two player turn based Tetris game that follows Object Oriented Programming fundamentals. Lead a team of 3 members to create Competitive Tetris as our final project for Object-Oriented Software Development (CS 246) course.
+A two player turn based Tetris game that follows Object Oriented Programming fundamentals. Collaborated with 3 team members to create Competitive Tetris as our final project for Object-Oriented Software Development (CS 246) course.
 
 Due to academic integrity concerns the source code for this project is not made publically available, however below I have attached several screenshots of the game and would be happy to provide it upon request.
 
