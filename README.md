@@ -23,7 +23,7 @@ Below is a demonstration of the rotation feature:
 Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
 
 ## Score:
-After filling up row(s) they are cleared and points are added into the players through the following equation:
+After filling up row(s) they are cleared and points are added into the player's score through the following equation:
 ### Points_added = (Current_level + Rows_cleared) ^ 2
 In this case it was:
 Points_added = (3+1)^2 = 16
