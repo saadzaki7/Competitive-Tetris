@@ -12,7 +12,7 @@ We created a UML to serve as a guideline for planning out our program.
 ![UML not rendering](UML.png?raw=true "Title")
 
 ## Graphical and Text mode screenshots:
-![UML not rendering](Game_screenshots/Scoreboard Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Graphical.png?raw=true "Title")
 ![UML not rendering](Game_screenshots/Scoreboard Text.png?raw=true "Title")
 
 
