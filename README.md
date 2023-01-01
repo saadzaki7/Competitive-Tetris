@@ -22,12 +22,12 @@ Below is a demonstration of the rotation feature:
 ## Leveling up feature:
 Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
 
-## Row clearing:
+## Score:
 After filling up row(s) they are cleared and points are added into the players through the following equation:
 ### Points_added = (Current_level + Rows_cleared) ^ 2
 In this case it was:
-### Points_added = (3+1)^2 = 16
+Points_added = (3+1)^2 = 16
 
-### There is also a CLI interface that lets you pass in files containing the block sequences for each player, starting level, game mode, and randomization seed. 
+There is also a CLI interface that lets you pass in files containing the block sequences for each player, starting level, game mode, and randomization seed. 
 
 
