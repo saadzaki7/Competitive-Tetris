@@ -7,5 +7,7 @@ Incorporated observer, factory and Model View Controller design patterns. It als
 
 Unified Modeling Language (UML) Diagram:
 
+![uml diagram not rendering](https://github.com/[saadzaki7]/[Competitive-Tetris]/blob/[main]/Picture1.png?raw=true)
+
 Prior to coding we created a UML to serve as a guideline to plan out our program.
 
