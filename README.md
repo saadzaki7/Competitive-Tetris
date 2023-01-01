@@ -20,6 +20,9 @@ We created a UML to serve as a guideline for planning out our program.
 All seven block types can be moved in all directions except up, rotated counter clockwise and clockwise all with correct collision detection.
 
 Below is a demonstration of the rotation feature:
+![UML not rendering](Game_screenshots/Graphic.png?raw=true "Title")
+![UML not rendering](Game_screenshots/Text.png?raw=true "Title")
+
 ![UML not rendering](Game_screenshots/Movement_Graphic.png?raw=true "Title")
 ![UML not rendering](Game_screenshots/Movement_Text.png?raw=true "Title")
 
