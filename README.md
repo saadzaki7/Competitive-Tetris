@@ -5,10 +5,12 @@ Due to academic integrity concerns the source code for this project is not made 
 
 Incorporated observer, factory and Model View Controller design patterns. It also used techniques such as Polymorphism, RAII and single responsibility principle.
 
-Unified Modeling Language (UML) Diagram:
+##Unified Modeling Language (UML) Diagram:
 
-We created a UML to serve as a guideline to plan out our program.
+We created a UML to serve as a guideline for planning out our program.
 
-![Alt text](UML.png?raw=true "Title")
+![UML not rendering](UML.png?raw=true "Title")
+
+## Graphical and Text mode screenshots
 
 
