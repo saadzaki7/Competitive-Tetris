@@ -15,6 +15,7 @@ We created a UML to serve as a guideline for planning out our program.
 ![UML not rendering](Game_screenshots/Scoreboard_Graphic.png?raw=true "Title")
 ![UML not rendering](Game_screenshots/Scoreboard_Text.png?raw=true "Title")
 
+Below are the visual examples of the game's major features. Textual representations have been omitted for clarity but can be found in the Game_screenshots folder.
 
 ## Movement features:
 All seven block types can be moved in all directions except up, rotated counter clockwise and clockwise all with correct collision detection.
@@ -28,7 +29,6 @@ Below is a demonstration of the rotation feature:
 Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
 
 ![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
-![UML not rendering](Game_screenshots/Level_Text.png?raw=true "Title")
 
 ## Score:
 After filling up row(s) they are cleared and points are added into the player's score through the following equation:
