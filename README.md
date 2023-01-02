@@ -18,7 +18,7 @@ We created a UML to serve as a guideline for planning out our program.
 Below are the visual examples of the game's major features. Textual representations have been omitted for clarity but can be found in the Game_screenshots folder.
 
 ## Leveling up feature:
-Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
+Each player can level up or down to adjust the probabilities of harder or easier blocks spawning, and presence of debuffs, to increase points they earn once they clear row(s). There are 3 levels all of which leverages the Factory method design pattern.
 
 ![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
 
