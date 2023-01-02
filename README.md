@@ -7,7 +7,7 @@ Incorporated Observer, Factory method, Decorator, and Model View Controller desi
 
 ## Unified Modeling Language (UML) Diagram:
 
-We created a UML to serve as a guideline for planning out our program.
+We created a UML diagram to serve as a guideline for developing our program.
 
 ![UML not rendering](UML.png?raw=true "Title")
 
