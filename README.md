@@ -23,7 +23,7 @@ Each player can level up or down to adjust the probabilities of harder or easier
 ![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
 
 ## Movement features:
-All seven block types can be moved in all directions except up, rotated counter clockwise and clockwise all with correct collision detection.
+All seven block types can be moved in all directions except up, rotated counter clockwise and clockwise all with appropriate collision detection.
 
 Below is a demonstration of the rotation feature:
 ![UML not rendering](Game_screenshots/Level_Graphic.png?raw=true "Title")
